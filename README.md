@@ -30,12 +30,12 @@
 <p align="center">
   <img width="400" src="./rating_comp.png" />
   <img width="400" src="./word_scramble.png" />
- <a href="https://github.com/Damilarr/Interactive-rating-component">
+  <span><a href="https://github.com/Damilarr/Interactive-rating-component">
   <img align="" src="./rating.png" />
-</a>
-  <a href="https://github.com/Damilarr/word-scramble-">
+</a></span>
+  <span><a href="https://github.com/Damilarr/word-scramble-">
   <img align="" src="./scramble.png" />
-</a>
+</a></span>
 </p>
 <br />
 
