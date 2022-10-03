@@ -17,7 +17,6 @@
 <!-- <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,10 +31,10 @@
   <img width="400" src="./rating_comp.png" />
   <img width="400" src="./word_scramble.png" />
  <a href="https://github.com/Damilarr/Interactive-rating-component">
-  <img align="" src="./rating_comp.png" />
+  <img align="" src="./rating.png" />
 </a>
   <a href="https://github.com/Damilarr/word-scramble-">
-  <img align="" src="./word_scramble.png" />
+  <img align="" src="./scramble.png" />
 </a>
 </p>
 <br />
