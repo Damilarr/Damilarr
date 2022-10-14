@@ -6,7 +6,7 @@
 </p>
 <br />
 
-<p align="center">I am an enthusiastic Frontend developer who is interested in problem solving and creative thinking.</p>
+<p align="center">An enthusiastic Frontend developer who enjoys thinking creatively solving Problems.</p>
 <h3 align="center"> 💼 Languages and Tools</h3>
 
 <br />
