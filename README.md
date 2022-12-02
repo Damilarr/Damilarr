@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
+<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,13 +29,13 @@
 <br />
 <br />
 <p align="center">
-  <img width="400" src="./rating_comp.png" />
-  <img width="400" src="./word_scramble.png" />
-  <span><a href="https://github.com/Damilarr/Interactive-rating-component">
-  <img align="" src="./rating.png" />
+  <img width="400" src="./wwtbam.png" />
+  <img width="400" src="./gmail.png" />
+  <span><a href="https://github.com/Damilarr/WWTBAM">
+  <img align="" src="./wwt-pre.png" />
 </a></span>
-  <span><a href="https://github.com/Damilarr/word-scramble-">
-  <img align="" src="./scramble.png" />
+  <span><a href="https://github.com/Damilarr/Gmail-clone">
+  <img align="" src="./gmail-pre.png" />
 </a></span>
 </p>
 <br />
