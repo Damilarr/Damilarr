@@ -25,6 +25,8 @@
 </p>
 
 <br />
+<p align="center"><img src="https://streak-stats.demolab.com?user=Damilarr&theme=github-dark&border_radius=10" /></p>
+<br/>
 
 <h2 align="center">My current favorite projects 💻</h2>
 <br />
