@@ -19,7 +19,6 @@ I'm an enthusiastic Frontend developer who enjoys thinking creatively and solvin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Damilarr&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Damilarr&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://gitroll.io/profile/ut7KQ8YXIWaaHTiHEaJJwlNycEpo1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ut7KQ8YXIWaaHTiHEaJJwlNycEpo1" alt="GitRoll Profile Badge"/></a>
 
 ---
 
