@@ -23,3 +23,10 @@ I'm an enthusiastic Frontend developer who enjoys thinking creatively and solvin
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Damilarr&icon=2&color=3)](https://visitcount.itsvg.in)
+---
+
+> **Let's build something.**
+> Open to collaborating on Angular, React.js, Next.js or JavaScript projects.
+> I work well with designers, teams, and clients — drop a star ⭐ or reach out.
+
+---
