@@ -3,7 +3,7 @@
   <h1><b>Hi there, I'm Emmanuel<img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 I'm an enthusiastic Frontend developer who enjoys thinking creatively and solving Problems.
-🔭 I’m currently working on Frontend and Backend techs<br>👯 I’m looking to collaborate on Angular, JavaScript OR Reactjs Projects<br>
+🔭 I’m currently working on Frontend and Backend techs<br>👯 I’m looking to collaborate on Nextjs, JavaScript OR Reactjs Projects<br>
 
 ## 🌐 Socials:
 
